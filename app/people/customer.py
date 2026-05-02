@@ -1,5 +1,3 @@
-from cinema.bar import CinemaBar
-
 class Customer:
     def __init__(self, name: str, food: str) -> None:
         self.name = name
